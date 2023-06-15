@@ -3,6 +3,7 @@ import "./Draft.css";
 import Editor from "../src/components/Editor"
 import DraftJsExample from './components/DraftJsExample';
 import QuillEditor from './components/QuillEditor';
+import MyCkEditor from './components/MyCkEditor';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Editor />
       <DraftJsExample />
       <QuillEditor />
+      <MyCkEditor />
     </div>
   );
 }

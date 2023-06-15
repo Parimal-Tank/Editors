@@ -17,6 +17,7 @@
     "@types/react": "^18.2.12",
     "@types/react-dom": "^18.2.5",
     "ckbox": "^1.5.1",
+    "ckeditor5-custom-build": "file:ckeditor5",
     "dompurify": "^3.0.3",
     "draft-convert": "^2.1.13",
     "draft-js": "^0.11.7",

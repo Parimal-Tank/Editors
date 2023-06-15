@@ -1,5 +1,5 @@
 import React from 'react'
-import { CKEditor, CKEditorContext } from '@ckeditor/ckeditor5-react';
+import { CKEditor } from '@ckeditor/ckeditor5-react';
 // import ClassicEditor from '@ckeditor/ckeditor5-build-classic'
 
 import ClassicEditor from '@ckeditor/ckeditor5-build-classic'
@@ -7,7 +7,6 @@ import ClassicEditor from '@ckeditor/ckeditor5-build-classic'
 
 
 // we can modified the config to get perticular icon.
-
 const config = {
   toolbar: [
     'heading',
